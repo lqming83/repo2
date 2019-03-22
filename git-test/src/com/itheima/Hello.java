@@ -17,4 +17,8 @@ public class Hello {
         }
         System.out.println(s);
     }
+
+	public void test(){
+		System.out.prinln(666666666666);
+	}
 }
